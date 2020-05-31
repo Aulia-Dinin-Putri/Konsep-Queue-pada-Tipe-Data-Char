@@ -1,0 +1,2 @@
+# Konsep-Queue-pada-Tipe-Data-Char
+Queue atau antrian merupakan salah satu teknik dalam struktur data. Dalam Queue terdapat 2 tahap, yaitu 1.Enqueue (Simpan/Masuk) dan 2.Dequeue (Hapus). Selain itu, Queue juga memiliki prinsip FIFO (First In First Out) yang artinya data yang pertama masuk merupakan data yang akan diambil/keluar lebih dulu, sedangkan data yang terakhir masuk merupakan data yang diambil/keluar paling akhir.
